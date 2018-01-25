@@ -1,0 +1,13 @@
+#This file will block these items from being added to the repo.
+
+# These are local files that are specific to each developers settings. 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+# These are larger packages that don't need to be pushed. Instead, developers can run npm install.
+node_modules/
+bower_components/
