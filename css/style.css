@@ -556,6 +556,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-right: 4px solid #faa200;
 }
 
+.section-header{
+  text-align: left;
+  padding-bottom: 30px;
+  color:white;
+  text-shadow:1px 1px black;
+
+}
+
 /* Section with background
 --------------------------------*/
 .section-bg {
@@ -619,6 +627,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0 40px 0;
   position: relative;
 }
+
 
 #about::before {
   content: '';
