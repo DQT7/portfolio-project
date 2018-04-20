@@ -928,8 +928,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure {
-  background: #faa200;
-  overflow: hidden;
+  background:grey;
+ overflow: hidden; 
   height: 240px;
   position: relative;
   border-radius: 4px 4px 0 0;
@@ -949,7 +949,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   width: 36px;
   height: 36px;
-  background: #fff;
+  background:#faa200;
   border-radius: 50%;
   transition: 0.2s linear;
 }
@@ -961,14 +961,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure .link-preview:hover, #portfolio .portfolio-item figure .link-details:hover {
-  background: #e3e9e6;
+  background: #faa200;
 }
 
 #portfolio .portfolio-item figure .link-preview:hover i, #portfolio .portfolio-item figure .link-details:hover i {
   color: #fff;
 }
 
-#portfolio .portfolio-item figure .link-preview {
+/* #portfolio .portfolio-item figure .link-preview {
   left: calc(50% - 38px);
   top: calc(50% - 18px);
 }
@@ -986,7 +986,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item figure:hover .link-details {
   opacity: 1;
   right: calc(50% - 44px);
-}
+} */
 
 #portfolio .portfolio-item .portfolio-info {
   background: #fff;
@@ -1009,7 +1009,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
-  color: #18d26e;
+  color: #faa200;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
