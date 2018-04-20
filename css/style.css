@@ -989,7 +989,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 } */
 
 #portfolio .portfolio-item .portfolio-info {
-  background: #fff;
+  background: black;
   text-align: center;
   padding: 30px;
   height: 90px;
@@ -1241,7 +1241,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a {
-  color: #000;
+  color: rgb(153, 153, 153);
 }
 
 #contact .contact-info a:hover {
